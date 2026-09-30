@@ -20,12 +20,13 @@ public class MyFirstCode {
 
 class Clothes{
     String brand;
-    int size;
-    String color;
+    int sizek;
+    int lenght;
     String type;
     int price;
     String quality;
     int stock;
+    String owner;
 
 
     void price() {
