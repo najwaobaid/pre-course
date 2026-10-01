@@ -19,7 +19,7 @@ public class MyFirstCode {
 }
 
 class Clothes{
-    String brand;
+    String brandName;
     int sizek;
     int lenght;
     String type;
